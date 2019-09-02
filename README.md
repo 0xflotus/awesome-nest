@@ -24,7 +24,7 @@
   - [API Reference](https://docs.nestjs.com)
   - [GitHub Repo](https://github.com/nestjs/nest)
   - [Release Notes](https://github.com/nestjs/nest/blob/master/CHANGELOG.md)
-  - Exampes
+  - Examples
     - [Nest starter](https://github.com/nestjs/typescript-starter) Nest framework TypeScript starter
     - [javascript-starter](https://github.com/nestjs/javascript-starter) Nest framework JavaScript (ES6 / ES7 / ES8) starter.
 - Community
@@ -68,7 +68,7 @@
   - [StyleGuide and Coding Conventions](https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md) An unofficial TypeScript StyleGuide
 - Migration
 - Web Sockets
-  - [Oficial](https://docs.nestjs.com/websockets/gateways)
+  - [Official](https://docs.nestjs.com/websockets/gateways)
 - Mail
   - [nest-mailer](https://github.com/partyka95/nest-mailer) A mailer module for Nest framework
 - API
